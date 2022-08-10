@@ -1,0 +1,9 @@
+Variables: Es un forma de almacenar cualquier tipo de valor para usarlo más adelante.
+
+Strings: Son bloques de texto que se ponen entre comillas.
+
+Funciones: Son un conjunto de instrucciones para realizar una tarea o calcular un valor.
+
+Declaraciones "if": Es un condicional para realizar una u otra operacion en funcion a una expresion.
+
+Valores booleanos: Dice si algo es verdadero o falso.
