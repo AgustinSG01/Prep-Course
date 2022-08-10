@@ -1,0 +1,3 @@
+For: Similiar a la declaracion "if", pero este es un bucle que se repetira hasta que la expresión condicional sea false.
+
+&&, ||, !: Son operadores lógicos que se usa para preguntar si más de una expresion es verdadera o no. && es "Y", || es "Ó" y ! es "NO". 
