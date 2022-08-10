@@ -1,1 +1,1 @@
-Arrays: Es un objeto en el que pueden meterse otros objetos (una lista).
+Arrays: Es una matriz en la que pueden meterse objetos (una lista).
