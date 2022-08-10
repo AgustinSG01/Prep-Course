@@ -1,0 +1,10 @@
+Objetos: Son similares a las matrices, pero estos pueden contener mucha informacion sobre algo en particular.
+
+Propiedades: Una propiedad es una asociación entre un nombre (key) y un valor (value). Estas se encuentran dentro de los objetos.
+
+Métodos: Un método es una propiedad pero la cual es una función.
+
+Bucle for...in: Un bucle sirve para recorrer un objeto.
+
+Notación de puntos vs notación de corchetes: Para buscar propiedades dentro de objetos se puede usar la anotación de puntos (objeto.propiedad) o con anotación de corchetes objeto[propiedad], objeto["propiedad"]
+
