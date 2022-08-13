@@ -1,0 +1,1 @@
+Callback: Esto es cuando se usa de argumento una función dentro de otra función.
